@@ -1,0 +1,100 @@
+source,log_message,target_label
+AnalyticsEngine,Unauthorized access to data was attempted,Security Alert
+ModernCRM,Email service experiencing issues with sending,Unclassified
+source,log_message,Unclassified
+ModernCRM,"nova.osapi_compute.wsgi.server [req-b9718cd8-f65e-49cc-8349-6cf7122af137 113d3a99c3da401fbd62cc2caa5b96d2 54fadb412c4e40cdbaed9335e4c35a9e - - -] 10.11.10.1 ""GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1"" status: 200 len: 1893 time: 0.2675118",HTTP Status
+ModernCRM,Email service experiencing issues with sending,Unclassified
+AnalyticsEngine,Unauthorized access to data was attempted,Security Alert
+ModernHR,"nova.osapi_compute.wsgi.server [req-4895c258-b2f8-488f-a2a3-4fae63982e48 113d3a99c3da401fbd62cc2caa5b96d2 54fadb412c4e40cdbaed9335e4c35a9e - - -] 10.11.10.1 ""GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1"" HTTP status code -  200 len: 211 time: 0.0968180",HTTP Status
+BillingSystem,"nova.osapi_compute.wsgi.server [req-ee8bc8ba-9265-4280-9215-dbe000a41209 113d3a99c3da401fbd62cc2caa5b96d2 54fadb412c4e40cdbaed9335e4c35a9e - - -] 10.11.10.1 ""GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1"" RCODE  200 len: 1874 time: 0.2280791",HTTP Status
+ModernHR,"nova.osapi_compute.wsgi.server [req-f0bffbc3-5ab0-4916-91c1-0a61dd7d4ec2 113d3a99c3da401fbd62cc2caa5b96d2 54fadb412c4e40cdbaed9335e4c35a9e - - -] 10.11.10.1 ""GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1"" Return code: 200 len: 1874 time: 0.2131531",HTTP Status
+ModernHR,Shard 6 replication task ended in failure,Error
+ModernHR,File data_6169.csv uploaded successfully by user User953.,System Notification
+ThirdPartyAPI,"nova.compute.claims [req-a07ac654-8e81-416d-bfbb-189116b07969 113d3a99c3da401fbd62cc2caa5b96d2 54fadb412c4e40cdbaed9335e4c35a9e - - -] [instance: bf8c824d-f099-4433-a41e-e3da7578262e] Total memory: 64172 MB, used: 512.00 MB",Resource Usage
+ModernHR,"nova.osapi_compute.wsgi.server [req-2bf7cfee-a236-42f3-8fb1-96fefab0b302 113d3a99c3da401fbd62cc2caa5b96d2 54fadb412c4e40cdbaed9335e4c35a9e - - -] 10.11.10.1 ""GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1"" RCODE  200 len: 1874 time: 0.1794369",HTTP Status
+ModernCRM,Email server encountered a sending fault,Error
+ModernHR,Critical system unit error: unit ID Component55,Critical Error
+ModernHR,"nova.osapi_compute.wsgi.server [req-d4f8d0c2-4f21-4b38-9f85-d82f8da75c23 113d3a99c3da401fbd62cc2caa5b96d2 54fadb412c4e40cdbaed9335e4c35a9e - - -] 10.11.10.1 ""GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1"" status: 200 len: 1893 time: 0.2663860",HTTP Status
+ThirdPartyAPI,Multiple bad login attempts detected on user 8538 account,Security Alert
+ThirdPartyAPI,File data_3847.csv uploaded successfully by user User175.,System Notification
+ModernCRM,Backup completed successfully.,System Notification
+BillingSystem,"nova.osapi_compute.wsgi.server [req-6fe0e366-f20b-454e-ade1-771deb7a911f 113d3a99c3da401fbd62cc2caa5b96d2 54fadb412c4e40cdbaed9335e4c35a9e - - -] 10.11.10.1 ""GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1"" Status code -  200 len: 1893 time: 0.2608259",HTTP Status
+ModernCRM,"nova.osapi_compute.wsgi.server [req-5f1c2027-e1b0-43f1-b6d3-694f483a69be 113d3a99c3da401fbd62cc2caa5b96d2 54fadb412c4e40cdbaed9335e4c35a9e - - -] 10.11.10.1 ""GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1"" RCODE  200 len: 1893 time: 0.2732208",HTTP Status
+ModernCRM,Account with ID 5351 created by User634.,User Action
+BillingSystem,"nova.osapi_compute.wsgi.server [req-945d1f31-a2e5-496a-a1da-21a0c88b6b61 113d3a99c3da401fbd62cc2caa5b96d2 54fadb412c4e40cdbaed9335e4c35a9e - - -] 10.11.10.1 ""GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1"" HTTP status code -  200 len: 1893 time: 0.2775040",HTTP Status
+ThirdPartyAPI,"nova.osapi_compute.wsgi.server [req-033d97b9-69e4-4acd-9029-f0d7b9370645 f7b8d1f1d4d44643b07fa10ca7d021fb e9746973ac574c6b8a9e8857f56a7608 - - -] 10.11.10.1 ""POST /v2/e9746973ac574c6b8a9e8857f56a7608/os-server-external-events HTTP/1.1"" status: 404 len: 296 time: 0.0847020",HTTP Status
+ModernCRM,"nova.osapi_compute.wsgi.server [req-75bc6269-8527-4b6a-8925-67611b9e00d9 113d3a99c3da401fbd62cc2caa5b96d2 54fadb412c4e40cdbaed9335e4c35a9e - - -] 10.11.10.1 ""GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1"" status: 200 len: 1916 time: 0.2785730",HTTP Status
+ThirdPartyAPI,nova.compute.resource_tracker [req-addc1839-2ed5-4778-b57e-5854eb7b8b09 - - - - -] Final resource view: name=cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us phys_ram=64172MB used_ram=512MB phys_disk=15GB used_disk=0GB total_vcpus=16 used_vcpus=0 pci_stats=[],Resource Usage
+ModernCRM,"nova.osapi_compute.wsgi.server [req-f894c9ea-bf2b-40c2-98df-e60c969bb8eb 113d3a99c3da401fbd62cc2caa5b96d2 54fadb412c4e40cdbaed9335e4c35a9e - - -] 10.11.10.1 ""GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1"" Return code: 200 len: 1893 time: 0.2627070",HTTP Status
+BillingSystem,Mail service encountered a delivery glitch,Unclassified
+AnalyticsEngine,"nova.osapi_compute.wsgi.server [req-b19871ff-db0a-46c5-8eef-a1edef1e2de8 113d3a99c3da401fbd62cc2caa5b96d2 54fadb412c4e40cdbaed9335e4c35a9e - - -] 10.11.10.1 ""GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1"" status: 200 len: 1893 time: 0.2688050",HTTP Status
+ModernHR,User User881 logged out.,User Action
+ModernCRM,User User313 logged out.,User Action
+AnalyticsEngine,Essential system part malfunction: part ID Component97,Critical Error
+BillingSystem,"nova.osapi_compute.wsgi.server [req-efe668bd-0162-4b21-b1c0-d962abc9f6ba 113d3a99c3da401fbd62cc2caa5b96d2 54fadb412c4e40cdbaed9335e4c35a9e - - -] 10.11.10.1 ""GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1"" Status code -  200 len: 1893 time: 0.2633080",HTTP Status
+AnalyticsEngine,Multiple hard drive issues in RAID configuration found,Critical Error
+ModernCRM,"nova.osapi_compute.wsgi.server [req-6d61da96-503a-40e2-a90e-6429d34f0c00 113d3a99c3da401fbd62cc2caa5b96d2 54fadb412c4e40cdbaed9335e4c35a9e - - -] 10.11.10.1 ""GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1"" Return code: 200 len: 1893 time: 0.2413731",HTTP Status
+AnalyticsEngine,Disk cleanup completed successfully.,System Notification
+ThirdPartyAPI,"nova.osapi_compute.wsgi.server [req-6c3203d9-d215-4722-af23-4a81f95f15fc 113d3a99c3da401fbd62cc2caa5b96d2 54fadb412c4e40cdbaed9335e4c35a9e - - -] 10.11.10.1 ""GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1"" Status code -  200 len: 1893 time: 0.2438371",HTTP Status
+ModernCRM,"nova.metadata.wsgi.server [-] 10.11.21.132,10.11.10.1 ""GET /latest/meta-data/placement/ HTTP/1.1"" HTTP status code -  200 len: 134 time: 0.0007560",HTTP Status
+ModernCRM,Shard 1 data copy failed,Error
+ModernHR,User 3569 made an unauthorized API request,Security Alert
+ModernCRM,"nova.osapi_compute.wsgi.server [req-96b6dd3d-8eb1-43f0-9bbb-19fd234cc6f5 113d3a99c3da401fbd62cc2caa5b96d2 54fadb412c4e40cdbaed9335e4c35a9e - - -] 10.11.10.1 ""GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1"" status: 200 len: 1893 time: 0.2685661",HTTP Status
+ThirdPartyAPI,"nova.osapi_compute.wsgi.server [req-cebeeef5-8804-4bfc-beca-716acf433be4 113d3a99c3da401fbd62cc2caa5b96d2 54fadb412c4e40cdbaed9335e4c35a9e - - -] 10.11.10.1 ""GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1"" RCODE  200 len: 1893 time: 0.2543209",HTTP Status
+ModernCRM,"nova.metadata.wsgi.server [req-ecbd525f-38ad-49a5-a65d-6b43af9227ab - - - - -] 10.11.21.127,10.11.10.1 ""GET /openstack/2013-10-17/vendor_data.json HTTP/1.1"" Status code -  200 len: 124 time: 0.2475102",HTTP Status
+ThirdPartyAPI,"nova.metadata.wsgi.server [req-ba4b4d89-3236-416c-999f-b42782557681 - - - - -] 10.11.21.143,10.11.10.1 ""GET /latest/meta-data/ HTTP/1.1"" RCODE  200 len: 328 time: 0.2230601",HTTP Status
+BillingSystem,Invalid credentials used for account Account4769 login,Security Alert
+ModernHR,Unusual access attempt from 192.168.197.162 logged,Security Alert
+ThirdPartyAPI,Backup started at 2025-08-29 15:17:18.,System Notification
+BillingSystem,Backup ended at 2025-06-01 06:27:38.,System Notification
+ThirdPartyAPI,nova.compute.resource_tracker [req-addc1839-2ed5-4778-b57e-5854eb7b8b09 - - - - -] Final resource view: name=cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us phys_ram=64172MB used_ram=2560MB phys_disk=15GB used_disk=20GB total_vcpus=16 used_vcpus=1 pci_stats=[],Resource Usage
+ModernHR,"nova.osapi_compute.wsgi.server [req-cfb8d696-c59f-483f-be6a-06c7f011ac6c 113d3a99c3da401fbd62cc2caa5b96d2 54fadb412c4e40cdbaed9335e4c35a9e - - -] 10.11.10.1 ""GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1"" status: 200 len: 1893 time: 0.2508061",HTTP Status
+ThirdPartyAPI,"nova.compute.claims [req-4b4dd551-26d8-48e2-bd52-91793d2157bc 113d3a99c3da401fbd62cc2caa5b96d2 54fadb412c4e40cdbaed9335e4c35a9e - - -] [instance: a015cf14-84bb-4156-a48d-7c4824ac7a9d] Total memory: 64172 MB, used: 512.00 MB",Resource Usage
+ThirdPartyAPI,"nova.metadata.wsgi.server [req-705dd9dc-0fad-4523-b0ef-0524abc6f12a - - - - -] 10.11.21.135,10.11.10.1 ""GET /latest/meta-data/block-device-mapping/ HTTP/1.1"" status: 200 len: 124 time: 0.2319629",HTTP Status
+AnalyticsEngine,"nova.metadata.wsgi.server [req-e840cb3c-2e87-4b1c-8d42-7817a506acd7 - - - - -] 10.11.21.135,10.11.10.1 ""GET /openstack/2013-10-17 HTTP/1.1"" Return code: 200 len: 157 time: 0.2177148",HTTP Status
+BillingSystem,Abnormal shutdown of server 6 happened during data transfer,Error
+ModernCRM,File data_2127.csv uploaded successfully by user User577.,System Notification
+AnalyticsEngine,"nova.osapi_compute.wsgi.server [req-f9ac2f26-39d4-4979-982a-1d2c4baee0e2 113d3a99c3da401fbd62cc2caa5b96d2 54fadb412c4e40cdbaed9335e4c35a9e - - -] 10.11.10.1 ""GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1"" RCODE  200 len: 1893 time: 0.2600241",HTTP Status
+BillingSystem,"nova.osapi_compute.wsgi.server [req-59b0af54-2013-4474-a1c6-9d78e6f052a2 113d3a99c3da401fbd62cc2caa5b96d2 54fadb412c4e40cdbaed9335e4c35a9e - - -] 10.11.10.1 ""GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1"" HTTP status code -  200 len: 1759 time: 0.2835078",HTTP Status
+ThirdPartyAPI,"nova.osapi_compute.wsgi.server [req-e584ef57-6eeb-4444-bd9a-e1bf5ea3149b 113d3a99c3da401fbd62cc2caa5b96d2 54fadb412c4e40cdbaed9335e4c35a9e - - -] 10.11.10.1 ""GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1"" HTTP status code -  200 len: 1893 time: 0.2322080",HTTP Status
+ModernHR,Service disruption caused by email sending error,Critical Error
+ThirdPartyAPI,System component malfunction: component ID Component90,Critical Error
+ModernCRM,"nova.metadata.wsgi.server [req-3a439e39-d7f5-4cdf-a08c-c530a5bc9b23 - - - - -] 10.11.21.133,10.11.10.1 ""GET /openstack/2013-10-17/user_data HTTP/1.1"" RCODE  404 len: 176 time: 0.2186041",HTTP Status
+AnalyticsEngine,"nova.osapi_compute.wsgi.server [req-0f33968d-d618-4346-9501-8f382cd571d9 113d3a99c3da401fbd62cc2caa5b96d2 54fadb412c4e40cdbaed9335e4c35a9e - - -] 10.11.10.1 ""GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1"" RCODE  200 len: 1916 time: 0.2731459",HTTP Status
+ModernCRM,Disk cleanup completed successfully.,System Notification
+ModernHR,"nova.osapi_compute.wsgi.server [req-0ba05e2a-7142-4fa0-859c-8573119de464 113d3a99c3da401fbd62cc2caa5b96d2 54fadb412c4e40cdbaed9335e4c35a9e - - -] 10.11.10.1 ""GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1"" Status code -  200 len: 1893 time: 0.2593911",HTTP Status
+ModernHR, Suspicious data export activity was identified,Security Alert
+ThirdPartyAPI,"nova.osapi_compute.wsgi.server [req-ccffca62-8a09-4c29-b42e-d7500c235d6d 113d3a99c3da401fbd62cc2caa5b96d2 54fadb412c4e40cdbaed9335e4c35a9e - - -] 10.11.10.1 ""GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1"" RCODE  200 len: 1893 time: 0.2796071",HTTP Status
+BillingSystem,"nova.osapi_compute.wsgi.server [req-6f9ecdfe-481c-4535-9bdc-45d86085d739 113d3a99c3da401fbd62cc2caa5b96d2 54fadb412c4e40cdbaed9335e4c35a9e - - -] 10.11.10.1 ""POST /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers HTTP/1.1"" RCODE  202 len: 733 time: 0.4923580",HTTP Status
+AnalyticsEngine,Server 8 experienced an unplanned restart during data replication,Error
+ThirdPartyAPI,Disk cleanup completed successfully.,System Notification
+ModernCRM,"nova.osapi_compute.wsgi.server [req-5289331a-b4c1-48d6-b35f-9edfcacccef0 113d3a99c3da401fbd62cc2caa5b96d2 54fadb412c4e40cdbaed9335e4c35a9e - - -] 10.11.10.1 ""GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1"" status: 200 len: 1893 time: 0.2714450",HTTP Status
+ModernCRM,"nova.osapi_compute.wsgi.server [req-de162460-0015-4ef5-ad34-36cdaf269be6 113d3a99c3da401fbd62cc2caa5b96d2 54fadb412c4e40cdbaed9335e4c35a9e - - -] 10.11.10.1 ""GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1"" Return code: 200 len: 1893 time: 0.2570632",HTTP Status
+ModernCRM,"nova.osapi_compute.wsgi.server [req-1239a305-a3f9-4451-8fd8-fc1da207fd05 113d3a99c3da401fbd62cc2caa5b96d2 54fadb412c4e40cdbaed9335e4c35a9e - - -] 10.11.10.1 ""GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1"" HTTP status code -  200 len: 1759 time: 0.2832491",HTTP Status
+ThirdPartyAPI,"nova.compute.claims [req-01d570b0-78a7-4719-b7a3-429fd7dc5a3f 113d3a99c3da401fbd62cc2caa5b96d2 54fadb412c4e40cdbaed9335e4c35a9e - - -] [instance: d54b44eb-2d1a-4aa2-ba6b-074d35f8f12c] Total vcpu: 16 VCPU, used: 0.00 VCPU",Resource Usage
+ModernCRM,Unanticipated server 15 restart happened during data exchange,Error
+BillingSystem,"nova.osapi_compute.wsgi.server [req-86058deb-b5e1-4cc2-96b2-4b1f0ca81306 113d3a99c3da401fbd62cc2caa5b96d2 54fadb412c4e40cdbaed9335e4c35a9e - - -] 10.11.10.1 ""GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1"" status: 200 len: 1893 time: 0.2519629",HTTP Status
+ModernCRM,"nova.metadata.wsgi.server [-] 10.11.21.136,10.11.10.1 ""GET /latest/meta-data/ HTTP/1.1"" HTTP status code -  200 len: 328 time: 0.0023859",HTTP Status
+ModernCRM,System updated to version 2.0.5.,System Notification
+ModernHR,"nova.osapi_compute.wsgi.server [req-74354c38-3eb0-4bde-a63d-5a53b008030c f7b8d1f1d4d44643b07fa10ca7d021fb e9746973ac574c6b8a9e8857f56a7608 - - -] 10.11.10.1 ""POST /v2/e9746973ac574c6b8a9e8857f56a7608/os-server-external-events HTTP/1.1"" RCODE  200 len: 380 time: 0.0921431",HTTP Status
+ThirdPartyAPI,Account Account3262 login was unsuccessful due to restrictions,Security Alert
+ThirdPartyAPI,"nova.osapi_compute.wsgi.server [req-405a1c42-ae3c-45ec-abaf-eac55b56f73e 113d3a99c3da401fbd62cc2caa5b96d2 54fadb412c4e40cdbaed9335e4c35a9e - - -] 10.11.10.1 ""GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1"" Return code: 200 len: 1893 time: 0.2570741",HTTP Status
+ModernHR,"nova.metadata.wsgi.server [req-1f64aad7-bba8-415a-8664-7c6d747c60e4 - - - - -] 10.11.21.125,10.11.10.1 ""GET /openstack/2013-10-17 HTTP/1.1"" Return code: 200 len: 157 time: 0.2119691",HTTP Status
+ThirdPartyAPI,Disk cleanup completed successfully.,System Notification
+BillingSystem,"nova.osapi_compute.wsgi.server [req-7504342b-b277-44f1-a711-06a0ebacca4e 113d3a99c3da401fbd62cc2caa5b96d2 54fadb412c4e40cdbaed9335e4c35a9e - - -] 10.11.10.1 ""GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1"" RCODE  200 len: 1893 time: 0.2528281",HTTP Status
+AnalyticsEngine,"Warning: unusual patterns detected on server 25, security check advised",Security Alert
+ThirdPartyAPI,"nova.osapi_compute.wsgi.server [req-31a940b9-3604-4c3f-8aec-386824bc1e9d 113d3a99c3da401fbd62cc2caa5b96d2 54fadb412c4e40cdbaed9335e4c35a9e - - -] 10.11.10.1 ""GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1"" status: 200 len: 1893 time: 0.2664509",HTTP Status
+AnalyticsEngine,"nova.metadata.wsgi.server [req-240372b7-bd9c-4cdd-977c-d2dc10bf8526 - - - - -] 10.11.21.123,10.11.10.1 ""GET /latest/meta-data/placement/ HTTP/1.1"" Status code -  200 len: 134 time: 0.3841610",HTTP Status
+ModernCRM,"nova.metadata.wsgi.server [req-82d56826-e751-467c-b922-97a8f782f84f - - - - -] 10.11.21.130,10.11.10.1 ""GET /openstack/2012-08-10/meta_data.json HTTP/1.1"" HTTP status code -  200 len: 264 time: 0.2336938",HTTP Status
+AnalyticsEngine,Multiple disk errors in RAID system detected and reported,Critical Error
+AnalyticsEngine,Potential security breach detected on server 27,Security Alert
+ThirdPartyAPI,"nova.osapi_compute.wsgi.server [req-410ed8a3-3cb0-47ca-920a-653be17f284e 113d3a99c3da401fbd62cc2caa5b96d2 54fadb412c4e40cdbaed9335e4c35a9e - - -] 10.11.10.1 ""GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1"" HTTP status code -  200 len: 1893 time: 0.2555740",HTTP Status
+ModernHR,Possible malware activity from 192.168.33.104 detected,Security Alert
+ModernCRM,"nova.osapi_compute.wsgi.server [req-bb798c56-02c1-4910-afe1-cf37fdf05e3b 113d3a99c3da401fbd62cc2caa5b96d2 54fadb412c4e40cdbaed9335e4c35a9e - - -] 10.11.10.1 ""GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1"" Return code: 200 len: 1575 time: 0.1902869",HTTP Status
+ModernHR,"nova.metadata.wsgi.server [req-2c3352c8-820a-4166-ab18-cdc88a711208 - - - - -] 10.11.21.132,10.11.10.1 ""GET /openstack/2013-10-17/vendor_data.json HTTP/1.1"" Status code -  200 len: 124 time: 0.2239330",HTTP Status
+BillingSystem,"nova.metadata.wsgi.server [req-a910b888-17ef-40b7-9311-a75a73d748d1 - - - - -] 10.11.21.136,10.11.10.1 ""GET /openstack/2013-10-17/vendor_data.json HTTP/1.1"" status: 200 len: 124 time: 0.2159710",HTTP Status
+ModernHR,Disk cleanup completed successfully.,System Notification
+ThirdPartyAPI,Backup ended at 2025-05-06 11:23:16.,System Notification
+AnalyticsEngine,IP 192.168.183.14 identified as potential attack source,Security Alert
+ModernHR,An invalid SSL certificate prevented the service health check from passing.,Error
+ModernHR,Potential vulnerability exploit detected from 192.168.152.25,Security Alert
