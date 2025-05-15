@@ -38,7 +38,7 @@ Architecture:
    - This folder contains resource files such as test CSV files, output files, images, etc.
 
 4. **Root Directory**:
-   - Contains the FastAPI server code (`server.py`).
+   - Contains the FastAPI app code (`app.py`).
 
 ---
 ## Environment or IDEs
