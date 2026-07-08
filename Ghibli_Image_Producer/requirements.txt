@@ -1,5 +1,5 @@
-torch
-torchvision
-tqdm
-matplotlib
-Pillow
+torch>=2.6.0
+torchvision>=0.21.0
+tqdm>=4.67.0
+matplotlib>=3.10.0
+Pillow>=11.2.1

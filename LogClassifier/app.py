@@ -12,7 +12,9 @@ os.makedirs(dest_dir, exist_ok=True)
 # --- Business logic: annotate uploaded CSV and return path to new CSV ---
 def annotate(csv_file):
     try:
-        df = pd.read_csv(csv_file.name)
+        # Gradio 5 returns file path as string; older versions return object with .name
+        file_path = csv_file if isinstance(csv_file, str) else csv_file.name
+        df = pd.read_csv(file_path)
         if not {"source", "log_message"}.issubset(df.columns):
             raise gr.Error("CSV must contain 'source' and 'log_message' columns.")
         df["target_label"] = classify(list(zip(df["source"], df["log_message"])))
